@@ -224,7 +224,7 @@ const AGE = someCode(BIRTHDAY); // а здесь?
   
 
 
-
+- некст: https://learn.javascript.ru/types
 
 
 
